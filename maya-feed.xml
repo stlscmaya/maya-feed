@@ -8,82 +8,218 @@
 
 <item>
 <g:id>maya-001</g:id>
-<g:title>Maya Brightening Saffron Face Wash</g:title>
-<g:description>Brightens skin, removes dirt and impurities.</g:description>
-<g:link>https://maya.com.bd/products/maya-brightening-saffron-face-wash</g:link>
+<title><![CDATA[Maya Brightening Saffron Face Wash]]></title>
+<description><![CDATA[Brightens skin, removes dirt and impurities.]]></description>
+<link>https://maya.com.bd/products/maya-brightening-saffron-face-wash</link>
 <g:image_link>https://maya.com.bd/cdn/shop/files/saffron-facewash.jpg</g:image_link>
-<g:brand>Maya</g:brand>
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>220.00 BDT</g:price>
-<g:product_type>Face Wash</g:product_type>
-<g:google_product_category>Beauty & Personal Care > Face Care > Facial Cleansers</g:google_product_category>
+<g:brand><![CDATA[Maya]]></g:brand>
 </item>
 
 <item>
 <g:id>maya-002</g:id>
-<g:title>Maya Rose Water Natural Toner</g:title>
-<g:description>Hydrates and refreshes skin.</g:description>
-<g:link>https://maya.com.bd/products/maya-rose-water-natural-toner</g:link>
+<title><![CDATA[Maya Rose Water Natural Toner]]></title>
+<description><![CDATA[Hydrates and refreshes skin.]]></description>
+<link>https://maya.com.bd/products/maya-rose-water-natural-toner</link>
 <g:image_link>https://maya.com.bd/cdn/shop/files/rose-toner.jpg</g:image_link>
-<g:brand>Maya</g:brand>
+<g:price>100.00 BDT</g:price>
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
-<g:price>100.00 BDT</g:price>
-<g:product_type>Toner</g:product_type>
-<g:google_product_category>Beauty & Personal Care > Skin Care > Toners</g:google_product_category>
+<g:brand><![CDATA[Maya]]></g:brand>
 </item>
 
 <item>
 <g:id>maya-003</g:id>
-<g:title>Maya Rose Gel</g:title>
-<g:link>https://maya.com.bd/products/maya-rose-gel</g:link>
+<title><![CDATA[Maya Rose Gel]]></title>
+<description><![CDATA[Hydrating rose gel moisturizer.]]></description>
+<link>https://maya.com.bd/products/maya-rose-gel</link>
 <g:image_link>https://maya.com.bd/cdn/shop/files/rose-gel.jpg</g:image_link>
-<g:brand>Maya</g:brand>
+<g:price>350.00 BDT</g:price>
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
-<g:price>350.00 BDT</g:price>
-<g:product_type>Gel Moisturizer</g:product_type>
-<g:google_product_category>Beauty & Personal Care > Skin Care > Moisturizers</g:google_product_category>
+<g:brand><![CDATA[Maya]]></g:brand>
 </item>
 
 <item>
 <g:id>maya-004</g:id>
-<g:title>Maya Saffron Gel</g:title>
-<g:link>https://maya.com.bd/products/maya-saffron-gel</g:link>
+<title><![CDATA[Maya Saffron Gel]]></title>
+<description><![CDATA[Brightening saffron gel moisturizer.]]></description>
+<link>https://maya.com.bd/products/maya-saffron-gel</link>
 <g:image_link>https://maya.com.bd/cdn/shop/files/saffron-gel.jpg</g:image_link>
-<g:brand>Maya</g:brand>
+<g:price>500.00 BDT</g:price>
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
-<g:price>500.00 BDT</g:price>
-<g:product_type>Gel Moisturizer</g:product_type>
-<g:google_product_category>Beauty & Personal Care > Skin Care > Moisturizers</g:google_product_category>
+<g:brand><![CDATA[Maya]]></g:brand>
 </item>
 
 <item>
 <g:id>maya-005</g:id>
-<g:title>Maya Hair Growth Scalp Serum</g:title>
-<g:link>https://maya.com.bd/products/maya-hair-growth-scalp-serum</g:link>
+<title><![CDATA[Maya Hair Growth Scalp Serum]]></title>
+<description><![CDATA[Boosts hair growth and scalp health.]]></description>
+<link>https://maya.com.bd/products/maya-hair-growth-scalp-serum</link>
 <g:image_link>https://maya.com.bd/cdn/shop/files/hair-serum.jpg</g:image_link>
-<g:brand>Maya</g:brand>
+<g:price>500.00 BDT</g:price>
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
-<g:price>500.00 BDT</g:price>
-<g:product_type>Hair Serum</g:product_type>
-<g:google_product_category>Beauty & Personal Care > Hair Care > Hair Treatments</g:google_product_category>
+<g:brand><![CDATA[Maya]]></g:brand>
+</item>
+
+<item>
+<g:id>maya-006</g:id>
+<title><![CDATA[Maya Rosehip Oil & Acne Control Gel Cream]]></title>
+<description><![CDATA[Controls acne and nourishes skin.]]></description>
+<link>https://maya.com.bd/products/maya-rosehip-oil-&-acne-control-gel-cream</link>
+<g:image_link>https://maya.com.bd/cdn/shop/files/rosehip.jpg</g:image_link>
+<g:price>450.00 BDT</g:price>
+<g:availability>in stock</g:availability>
+<g:condition>new</g:condition>
+<g:brand><![CDATA[Maya]]></g:brand>
+</item>
+
+<item>
+<g:id>maya-007</g:id>
+<title><![CDATA[Maya Marula Moisturizing & Glowing Cream]]></title>
+<description><![CDATA[Deep hydration and glowing skin.]]></description>
+<link>https://maya.com.bd/products/maya-marula-moisturizing-&-glowing-cream</link>
+<g:image_link>https://maya.com.bd/cdn/shop/files/marula.jpg</g:image_link>
+<g:price>550.00 BDT</g:price>
+<g:availability>in stock</g:availability>
+<g:condition>new</g:condition>
+<g:brand><![CDATA[Maya]]></g:brand>
+</item>
+
+<item>
+<g:id>maya-008</g:id>
+<title><![CDATA[Maya Anti Pimple Neem Facewash]]></title>
+<description><![CDATA[Reduces pimples and acne.]]></description>
+<link>https://maya.com.bd/products/maya-anti-pimple-neem-facewash</link>
+<g:image_link>https://maya.com.bd/cdn/shop/files/neem-facewash.jpg</g:image_link>
+<g:price>200.00 BDT</g:price>
+<g:availability>in stock</g:availability>
+<g:condition>new</g:condition>
+<g:brand><![CDATA[Maya]]></g:brand>
+</item>
+
+<item>
+<g:id>maya-009</g:id>
+<title><![CDATA[Maya True Herbs Aloe Vera Gel]]></title>
+<description><![CDATA[Soothing aloe vera gel.]]></description>
+<link>https://maya.com.bd/products/maya-true-herbs-aloe-vera-gel</link>
+<g:image_link>https://maya.com.bd/cdn/shop/files/aloe-vera.jpg</g:image_link>
+<g:price>180.00 BDT</g:price>
+<g:availability>in stock</g:availability>
+<g:condition>new</g:condition>
+<g:brand><![CDATA[Maya]]></g:brand>
+</item>
+
+<item>
+<g:id>maya-010</g:id>
+<title><![CDATA[Maya Scalp & Hair Oil]]></title>
+<description><![CDATA[Nourishes scalp and hair roots.]]></description>
+<link>https://maya.com.bd/products/maya-all-natural-scalp-&-hair-oil</link>
+<g:image_link>https://maya.com.bd/cdn/shop/files/scalp-oil.jpg</g:image_link>
+<g:price>300.00 BDT</g:price>
+<g:availability>in stock</g:availability>
+<g:condition>new</g:condition>
+<g:brand><![CDATA[Maya]]></g:brand>
+</item>
+
+<item>
+<g:id>maya-011</g:id>
+<title><![CDATA[Maya Herbal Coconut Oil]]></title>
+<description><![CDATA[Pure herbal coconut oil.]]></description>
+<link>https://maya.com.bd/products/maya-true-herbs-herbal-coconut-oil</link>
+<g:image_link>https://maya.com.bd/cdn/shop/files/coconut-oil.jpg</g:image_link>
+<g:price>250.00 BDT</g:price>
+<g:availability>in stock</g:availability>
+<g:condition>new</g:condition>
+<g:brand><![CDATA[Maya]]></g:brand>
+</item>
+
+<item>
+<g:id>maya-012</g:id>
+<title><![CDATA[Maya Cooling Coconut Hair Oil]]></title>
+<description><![CDATA[Cooling effect coconut oil.]]></description>
+<link>https://maya.com.bd/products/maya-true-herbs-cooling-coconut-hair-oil</link>
+<g:image_link>https://maya.com.bd/cdn/shop/files/cooling-coconut.jpg</g:image_link>
+<g:price>270.00 BDT</g:price>
+<g:availability>in stock</g:availability>
+<g:condition>new</g:condition>
+<g:brand><![CDATA[Maya]]></g:brand>
+</item>
+
+<item>
+<g:id>maya-013</g:id>
+<title><![CDATA[Maya Rose Coconut Hair Oil]]></title>
+<description><![CDATA[Nourishing rose coconut oil.]]></description>
+<link>https://maya.com.bd/products/maya-rose-coconut-hair-oil</link>
+<g:image_link>https://maya.com.bd/cdn/shop/files/rose-coconut.jpg</g:image_link>
+<g:price>280.00 BDT</g:price>
+<g:availability>in stock</g:availability>
+<g:condition>new</g:condition>
+<g:brand><![CDATA[Maya]]></g:brand>
+</item>
+
+<item>
+<g:id>maya-014</g:id>
+<title><![CDATA[Maya Marula Oil]]></title>
+<description><![CDATA[Pure marula oil for skin.]]></description>
+<link>https://maya.com.bd/products/maya-true-herbs-marula-oil</link>
+<g:image_link>https://maya.com.bd/cdn/shop/files/marula-oil.jpg</g:image_link>
+<g:price>400.00 BDT</g:price>
+<g:availability>in stock</g:availability>
+<g:condition>new</g:condition>
+<g:brand><![CDATA[Maya]]></g:brand>
+</item>
+
+<item>
+<g:id>maya-015</g:id>
+<title><![CDATA[Maya Moroccan Argan Oil]]></title>
+<description><![CDATA[Nourishing argan oil.]]></description>
+<link>https://maya.com.bd/products/maya-all-natural-moroccan-argan-oil</link>
+<g:image_link>https://maya.com.bd/cdn/shop/files/argan.jpg</g:image_link>
+<g:price>450.00 BDT</g:price>
+<g:availability>in stock</g:availability>
+<g:condition>new</g:condition>
+<g:brand><![CDATA[Maya]]></g:brand>
+</item>
+
+<item>
+<g:id>maya-016</g:id>
+<title><![CDATA[Maya Spanish Rosehip Seed Oil]]></title>
+<description><![CDATA[Skin repairing rosehip oil.]]></description>
+<link>https://maya.com.bd/products/maya-all-natural-spanish-rosehip-seed-oil</link>
+<g:image_link>https://maya.com.bd/cdn/shop/files/rosehip-oil.jpg</g:image_link>
+<g:price>420.00 BDT</g:price>
+<g:availability>in stock</g:availability>
+<g:condition>new</g:condition>
+<g:brand><![CDATA[Maya]]></g:brand>
+</item>
+
+<item>
+<g:id>maya-017</g:id>
+<title><![CDATA[Maya Cold Pressed Castor Oil]]></title>
+<description><![CDATA[Hair strengthening castor oil.]]></description>
+<link>https://maya.com.bd/products/maya-all-natural-cold-pressed-castor-oil</link>
+<g:image_link>https://maya.com.bd/cdn/shop/files/castor.jpg</g:image_link>
+<g:price>200.00 BDT</g:price>
+<g:availability>in stock</g:availability>
+<g:condition>new</g:condition>
+<g:brand><![CDATA[Maya]]></g:brand>
 </item>
 
 <item>
 <g:id>maya-018</g:id>
-<g:title>Maya Cold Pressed Olive Oil</g:title>
-<g:link>https://maya.com.bd/products/maya-all-natural-cold-pressed-olive-oil</g:link>
+<title><![CDATA[Maya Cold Pressed Olive Oil]]></title>
+<description><![CDATA[Pure cold pressed olive oil.]]></description>
+<link>https://maya.com.bd/products/maya-all-natural-cold-pressed-olive-oil</link>
 <g:image_link>https://maya.com.bd/cdn/shop/files/olive.jpg</g:image_link>
-<g:brand>Maya</g:brand>
+<g:price>200.00 BDT</g:price>
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
-<g:price>200.00 BDT</g:price>
-<g:product_type>Hair Oil</g:product_type>
-<g:google_product_category>Beauty & Personal Care > Hair Care > Hair Oils</g:google_product_category>
+<g:brand><![CDATA[Maya]]></g:brand>
 </item>
 
 </channel>
